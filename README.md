@@ -1,1 +1,1 @@
-# cryptocollectibles.github.io
+Website files for cryptocollectibles.io
